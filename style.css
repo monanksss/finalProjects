@@ -26,12 +26,35 @@ h2 {
     top: 160px;
     
 }
+#h{
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    top: 750px;
+    left: 500px;
+    position: relative;
+
+}
 
 #play{
     top: 650px;
     left: 250px;
     position: relative;
     margin: 100px;
+}
+
+#how2play{
+    top: 600px;
+    left: 50px;
+    position: relative;
+    color: rgb(161, 0, 0);
+    font-size: 25px;
+}
+#thanks{
+    top: 500px;
+    left: 50px;
+    position: relative;
+    color: rgb(4, 37, 107);
+    font-size: 75px;
 }
 .answer{
     top: 270px;

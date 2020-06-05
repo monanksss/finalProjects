@@ -1,18 +1,19 @@
 body {
     background-image: url(../finalProject/img/glamour-background-13614074.png);
     height: 1200px;
-    position: relative;
+    width: 700px;
 }
 
 h1 {
-    font-size: 100px;
+    font-size: 70px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: rgb(235, 69, 4);
     padding: 10px;
     margin: 0px;
     text-align: center;
     position: relative;
-    top: 300px;
+    top: 400px;
+    left: 300px
 }
 
 h2 {
@@ -24,41 +25,48 @@ h2 {
     text-align: center;
     position: relative;
     top: 160px;
+    left: 250px;
     
 }
 #h{
     font-size: 35px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    top: 750px;
+    top: 650px;
     left: 500px;
     position: relative;
 
 }
 
 #play{
-    top: 650px;
-    left: 250px;
+    top:550px;
+    left: 300px;
     position: relative;
-    margin: 100px;
+    margin: 50px;
+}
+#play2{
+    top:650px;
+    left: 500px;
+    position: relative;
+    margin: 50px;
 }
 
 #how2play{
-    top: 600px;
-    left: 50px;
+    top: 500px;
+    left: 300px;
     position: relative;
     color: rgb(161, 0, 0);
     font-size: 25px;
 }
 #thanks{
     top: 500px;
-    left: 50px;
+    left: 300px;
     position: relative;
     color: rgb(4, 37, 107);
     font-size: 75px;
 }
 .answer{
     top: 270px;
-    left: 400px;
+    left: 350px;
     position: relative;
 }
 
